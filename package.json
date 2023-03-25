@@ -1,0 +1,14 @@
+{
+  "name": "salary-calculator-ks",
+  "version": "1.0.10",
+  "description": "Kosova Salary Calculator Gross->Net , Net->Gross",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Olcan Pinduk",
+  "license": "MIT",
+  "dependencies": {
+    "mathjs": "^11.3.2"
+  }
+}

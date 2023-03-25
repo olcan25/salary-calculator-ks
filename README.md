@@ -1,8 +1,7 @@
-import { netSalary, grossSalary } from 'salary-calculator-ks';
+import { netSalaryFunc, grossSalaryFunc } from 'salary-calculator-ks';
 
-
-    const { contribute, grossSalary, taxSalary, primary } = netSalary(netSalary,isPrimary)
+    const {  employeeContribute, employerContribute, grossSalary, taxSalary, isPrimary } = netSalaryFunc(netSalary,isPrimary=true)
 
     OR
 
-    const { netSalary, contribute, taxSalary, primary } = grossSalary(grossSalary,isPrimary)
+    const { netSalary, employeeContribute, employerContribute, taxSalary, isPrimary } = grossSalaryFunc(grossSalary,isPrimary=true)

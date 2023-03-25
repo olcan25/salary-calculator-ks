@@ -1,6 +1,6 @@
 {
   "name": "salary-calculator-ks",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "Kosova Salary Calculator Gross->Net , Net->Gross",
   "main": "index.js",
   "scripts": {

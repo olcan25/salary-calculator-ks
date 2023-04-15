@@ -5,3 +5,8 @@ import { netSalaryFunc, grossSalaryFunc } from 'salary-calculator-ks';
     OR
 
     const { netSalary, employeeContribute, employerContribute, taxSalary, isPrimary } = grossSalaryFunc(grossSalary,isPrimary=true)
+
+
+Async Await
+
+netSalaryFuncPromise and grossSalaryFuncPromise
